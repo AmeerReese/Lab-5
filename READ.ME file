@@ -1,0 +1,14 @@
+Function Description
+The add_numbers function takes two integers as arguments and returns their sum.
+
+How to use
+To use the add_numbers function, you need to import it into your python code. 
+Here's an example:
+from add_numbers import add_numbers
+
+a = 10
+b = 20
+
+result = add_numbers(a, b)
+print(f"The sum of {a} and {b} is {result}")
+In the example above, we import the add_numbers function from the add_numbers module and use it to add the numbers 10 and 20.
